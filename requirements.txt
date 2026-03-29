@@ -1,0 +1,24 @@
+# Core ML / Deep Learning
+tensorflow==2.15.0
+tensorflow-keras==2.15.0
+
+# Hugging Face Transformers (pinned to match notebook)
+transformers==4.38.2
+
+# PyTorch (required by transformers, even when using TF backend)
+torch
+torchvision
+torchaudio
+
+# Data & NLP
+pandas
+numpy
+scikit-learn
+nltk
+
+# Visualization
+matplotlib
+seaborn
+
+# System utilities
+psutil
