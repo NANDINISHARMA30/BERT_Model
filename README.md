@@ -122,8 +122,4 @@ This project is licensed under the MIT License.
 ---
 
 
-## ⭐ Acknowledgements
 
-- Google Research for BERT  
-- HuggingFace Transformers library  
-- Open-source NLP community  .
