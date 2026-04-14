@@ -18,7 +18,7 @@ This project demonstrates how BERT can be used for real-world NLP tasks with pra
 - Fine-tuning for downstream NLP tasks  
 - Tokenization using WordPiece  
 - Context-aware embeddings  
-- Easy-to-understand implementation  
+- Easy-to-understand implementation  .
 
 ---
 
