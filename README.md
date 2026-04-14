@@ -99,12 +99,6 @@ print(result)
 
 ---
 
-## 📦 Requirements
-
-- Python 3.x  
-- PyTorch / TensorFlow  
-- Transformers (HuggingFace)  
-- NumPy, Pandas  
 
 ---
 
