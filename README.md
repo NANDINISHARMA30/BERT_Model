@@ -1,10 +1,10 @@
-# 🚀 BERT Model Implementation
+# BERT Model Implementation
 
 This repository contains an implementation of **BERT (Bidirectional Encoder Representations from Transformers)** for natural language processing tasks such as text classification, feature extraction, and language understanding.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 BERT is a state-of-the-art NLP model developed by Google that leverages **deep bidirectional transformers** to understand context from both left and right of a word in a sentence.
 
